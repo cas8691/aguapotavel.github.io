@@ -31,6 +31,7 @@ header{
 }
 header img{
     border-radius: 18px;
+    background-color: red;
 }
 header h1{
     padding: 0px 30px;
@@ -94,7 +95,6 @@ nav:target > a:first-child{
 main{
     padding: 40px 40px 0px 40px;
     background-color: var(--primary-color);
-    width: 100%;
 }
 .conteudo{
     margin: auto;
